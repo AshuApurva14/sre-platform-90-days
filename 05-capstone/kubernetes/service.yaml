@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: sre-demo
+  namespace: sre-capstone
+spec:
+  selector:
+    app: sre-demo
+  ports:
+    - port: 80
+      targetPort: 8080

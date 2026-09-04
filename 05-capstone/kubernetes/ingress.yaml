@@ -1,0 +1,17 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: sre-demo
+  namespace: sre-capstone
+spec:
+  rules:
+    - host: sre-demo.example.local
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: sre-demo
+                port:
+                  number: 80

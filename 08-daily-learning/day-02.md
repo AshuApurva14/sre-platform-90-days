@@ -1,11 +1,15 @@
 # Day 02 — Learning Log
 
+# Linux Users, Groups & Permissions
+
 ## Date
 YYYY-MM-DD
 
 ## Week
 
 ## Today's One Outcome
+
+Understand Linux users, groups, ownership and file permissions.
 
 ## Planned Minutes
 

@@ -1,5 +1,7 @@
 ## File system in Linux
 
+<img width="1522" height="913" alt="Image" src="https://github.com/user-attachments/assets/45ce8b80-0f3d-4925-a5bd-6323f116e123" />
+
 ### Root Directory
 
 It is a logical structure that stores and access files within that space.
@@ -20,73 +22,6 @@ It is a logical structure that stores and access files within that space.
 └── var
 
 ```
----
-
-### Current Directory
-1. 
-```
-$pwd
-
-```
-
----
-
-### Absolute Path and Rleative Path
-
-### Absolute Path
-
-An Absolute path starts from `/`.
-
-Example:
-```bash
-/tmp
-```
-
-```bash
-/home/user1
-```
-
-### Relative Path
-
-A relative path starts from where you are currently standing.
-
-For Example:
-
-```bash
-cd /tmp
-mkdir sre
-cd sre
-pwd
-
-```
-Now:
-
-```bash
-cd ..
-```
-You moved one directory upward.
-
-Check:
-
-```bash
-pwd
-```
-
-Then:
-
-```bash
-cd .
-pwd
-```
-
-Relative path shortcuts:
-
-`.` : means current working directory
-
-`..` : means parent directory
-
-`~` : Home directory
-
 ---
 
 ### 

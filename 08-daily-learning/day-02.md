@@ -34,8 +34,8 @@ Understand Linux users, groups, ownership and file permissions.
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: 228c406 (HEAD -> main, origin/main, origin/HEAD) feat: update Day 02 learning log with additional reflections and status details
+- File/demo: /workspaces/sre-platform-90-days/01-foundations/week-01-linux/day-02/day-02-lab/permissions-project
 
 ## Problem / Confusion
 No confusion

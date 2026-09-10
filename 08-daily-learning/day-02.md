@@ -38,6 +38,7 @@ Understand Linux users, groups, ownership and file permissions.
 - File/demo: 
 
 ## Problem / Confusion
+No confusion
 
 ## How I Solved It
 
@@ -45,9 +46,16 @@ Understand Linux users, groups, ownership and file permissions.
 
 ## Tomorrow's One Outcome
 
+
+
 ## Distractions (minutes)
 
+20 minutes
+
 ## Focus Score (1-5)
+3
 
 ## Status
 Done / Partial / Missed
+
+Done

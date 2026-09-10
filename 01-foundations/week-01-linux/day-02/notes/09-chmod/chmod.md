@@ -30,6 +30,10 @@ chmod 644 demo.txt
 ls -l demo.txt
 ```
 
+## Solution
+
+<img width="1156" height="229" alt="Image" src="https://github.com/user-attachments/assets/82cbde3b-d416-4086-ab43-e07a0cb28a0e" />
+
 ## Help
 
 ```bash

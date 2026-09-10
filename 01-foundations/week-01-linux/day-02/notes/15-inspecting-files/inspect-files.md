@@ -36,3 +36,8 @@ stat inspect.txt
 ```
 
 Compare the high-level view from `ls -l` with the detailed output from `stat`.
+
+
+## solution
+
+<img width="1139" height="427" alt="Image" src="https://github.com/user-attachments/assets/32f67e32-32e4-4103-ae30-255ebb431a38" />

@@ -3,9 +3,9 @@
 # Linux Users, Groups & Permissions
 
 ## Date
-YYYY-MM-DD
+2026-09-10
 
-## Week
+## Week - 1
 
 ## Today's One Outcome
 
@@ -13,15 +13,24 @@ Understand Linux users, groups, ownership and file permissions.
 
 ## Planned Minutes
 
+90
+
 ## Actual Focused Minutes
+70
 
 ## What I Learned
 
-- 
+- Understand linux user, groups and other concept and its usecases
+- Hands on practice on diff users, groups operations
+- File permissions and diff file permissions operations
+- Hands on practice by creating, modifying, deleting files and files related operations
+- Diff types of file permissions
+- Diff ways to assign permissions to dir and files
+
 
 ## What I Built / Practiced
 
-- 
+- Built a capstone project intended to teach user, group anf file permissions concepts
 
 ## Evidence
 

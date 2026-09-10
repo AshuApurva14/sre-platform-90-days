@@ -42,3 +42,7 @@ ls -l script.sh
 4. Remove read permission from others.
 
 Try using symbolic commands rather than a single numeric command.
+
+# Solution
+
+<img width="1123" height="337" alt="Image" src="https://github.com/user-attachments/assets/e18033b8-3769-4710-90a6-8903bb840912" />

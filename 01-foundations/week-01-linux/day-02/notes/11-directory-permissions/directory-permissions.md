@@ -34,3 +34,7 @@ ls -ld dir-lab dir-lab/a dir-lab/a/b
 ```
 
 Then experiment carefully with directory modes such as `700` and `755` and observe the effect.
+
+## Solution
+
+<img width="1275" height="486" alt="Image" src="https://github.com/user-attachments/assets/40bd65e0-4c7d-4fad-a31c-40d84a6eb917" />

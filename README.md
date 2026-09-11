@@ -105,3 +105,7 @@ I need to keep moving.
 At the end of 90 days, this repository should demonstrate an end-to-end operational lifecycle:
 
 **Code → Test → Build → Containerize → Deploy → Observe → Fail → Diagnose → Recover → Document → Automate**
+
+## Your recovery decision tree
+
+<img width="476" height="766" alt="Image" src="https://github.com/user-attachments/assets/82ad0749-dbc3-4bca-be87-b210f3ac7e9a" />

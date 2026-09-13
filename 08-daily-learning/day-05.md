@@ -60,20 +60,41 @@
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: a2b8f79 (HEAD -> main, origin/main, origin/HEAD) feat: recover day 05 systemd services and logs
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/blob/main/01-foundations/week-01-linux/day-05/sre-service-lab/hello-service.sh
 
 ## Problem / Confusion
 
+N/A
+
 ## How I Solved It
+
+N/A
 
 ## What I Still Don't Understand
 
+N/A
+
 ## Tomorrow's One Outcome
 
+- [ ] Inspect a service
+- [ ] Find Main PID
+- [ ] Inspect process with `ps`
+- [ ] Read service logs
+- [ ] Stop/start a safe service
+- [ ] Create demo systemd service
+- [ ] Intentionally break it
+- [ ] Diagnose failure
+- [ ] Fix it
+- [ ] Verify recovery
+
+
 ## Distractions (minutes)
+20
 
 ## Focus Score (1-5)
+
+3
 
 ## Status
 Done / Partial / Missed

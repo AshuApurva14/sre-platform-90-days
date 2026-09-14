@@ -7,13 +7,42 @@ YYYY-MM-DD
 
 ## Today's One Outcome
 
+Linux command
+     ↓
+Run manually
+     ↓
+Put it in a script
+     ↓
+Use variables
+     ↓
+Use conditions
+     ↓
+Use loops
+     ↓
+Process command output
+     ↓
+Automate a repetitive task
+
 ## Planned Minutes
 
 ## Actual Focused Minutes
 
 ## What I Learned
 
-- 
+You learned a Linux command
+        ↓
+You used it manually
+        ↓
+You noticed repetition
+        ↓
+You put it in a script
+        ↓
+You added validation
+        ↓
+You added exit codes
+        ↓
+Another system can automate it
+
 
 ## What I Built / Practiced
 

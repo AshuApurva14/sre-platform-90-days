@@ -36,7 +36,7 @@
 ## Evidence
 
 - Git commit: f14e366 (HEAD -> main) feat: add Day 07 materials for Linux integration and troubleshooting, including incidents and health check script
-- File/demo: 
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/blob/main/01-foundations/week-01-linux/day-07/scripts/health-check.sh
 
 ## Problem / Confusion
 

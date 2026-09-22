@@ -63,8 +63,8 @@ I practiced TCP connection troubleshooting by starting servers and fixing issues
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: 1eb74c3 (HEAD -> main, origin/main, origin/HEAD) feat: add Day 11 with notes and labs
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/tree/main/01-foundations/week-02-networking/day-11-tcp/labs
 
 ## Problem / Confusion
 

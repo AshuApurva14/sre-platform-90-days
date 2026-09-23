@@ -85,11 +85,12 @@ Kubernetes
 
 ## What I Built / Practiced
 
+I have build a local server and tested and precticed TLS, TCP concepts 
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: ad243aa (HEAD -> main, origin/main, origin/HEAD) Add Day 12  TLS documentation and examples for Kubernetes and DevOps
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/blob/main/01-foundations/week-02-networking/day-12-tls-https/tls-lab/https_server.py
 
 ## Problem / Confusion
 

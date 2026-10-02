@@ -1,0 +1,6 @@
+# 02-lab-setup/namespace.yaml
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: day14-network

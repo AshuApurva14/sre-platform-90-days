@@ -48,8 +48,7 @@ Application
 60
 
 ## What I Learned
-
-- 
+- Troubleshooting end to end networking, kubernetes issues.
 
 ## What I Built / Practiced
 
@@ -57,8 +56,8 @@ Application
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: 7005a6a (HEAD -> main, origin/main, origin/HEAD) Add networking troubleshooting project materials for Day 14
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/blob/main/01-foundations/week-02-networking/day-14-network-troubleshooting-project/day14-lab.md
 
 ## Problem / Confusion
 

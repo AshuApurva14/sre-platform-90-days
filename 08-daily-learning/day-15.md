@@ -39,8 +39,8 @@
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: 1c1f0b8 (HEAD -> main, origin/main, origin/HEAD) feat: add Day 15 Python foundations materials including examples, labs, and troubleshooting notes
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/tree/main/01-foundations/week-03-python/day-15-python-automatiom/labs
 
 ## Problem / Confusion
 
@@ -51,8 +51,11 @@
 ## Tomorrow's One Outcome
 
 ## Distractions (minutes)
+25
 
 ## Focus Score (1-5)
+3
 
 ## Status
 Done / Partial / Missed
+Done

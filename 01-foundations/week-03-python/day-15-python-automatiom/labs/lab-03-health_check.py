@@ -4,42 +4,47 @@ Find the health of the system
 
 def check_cpu(cpu):
     if cpu >= 90:
-        return f"CPU usages: {cpu}% CRITICAL"
+        return "CRITICAL"
     elif cpu >= 80:
-        return f"CPU usages: {cpu}% WARNING"
+        return "WARNING"
     else:
-        return f"CPU usages: {cpu}% OK"
+        return "OK"
 
 
 def check_memory(memory):
 
     if memory >= 90:
-        return f"CPU usages: {memory}% CRITICAL"
+        return "CRITICAL"
     elif memory >= 80:
-        return f"CPU usages: {memory}% WARNING"
+        return "WARNING"
     else:
-        return f"CPU usages: {memory}% OK"
+        return "OK"
 
 def check_disk(disk):
 
     if disk >= 90:
-        return f"CPU usages: {disk}% CRITICAL"
+        return "CRITICAL"
     elif disk >= 80:
-        return f"CPU usages: {disk}% WARNING"
+        return "WARNING"
     else:
-        return f"CPU usages: {disk}% OK"
+        return "OK"
 
 def overall_status(statuses):
 
-    return statuses
+    if "CRITICAL" in statuses:
+        return "CRITICAL"
+    elif "WARNING" in statuses:
+        return "WARNING"
+    else:
+        return "OK"
 
 def main():
 
     hostname = "server01"
 
-    cpu = 89
-    memory = 88
-    disk = 78
+    cpu = 90
+    memory = 78
+    disk = 80
 
     cpu_status = check_cpu(cpu)
     memory_status = check_memory(memory)
@@ -71,5 +76,5 @@ def main():
     print(f"\n============================================")
 
 
-if __name__ == "__main__ ":
+if __name__ == "__main__":
     main()

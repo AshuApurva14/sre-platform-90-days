@@ -40,8 +40,8 @@ Exceptions
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: 7828cc1 (HEAD -> main, origin/main, origin/HEAD) feat: add Day 16 materials for Python exception handling, including exercises, troubleshooting notes, and health check tool
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/blob/main/01-foundations/week-03-python/day-16-python-exception-error-handling/labs/server_checker.py
 
 ## Problem / Confusion
 

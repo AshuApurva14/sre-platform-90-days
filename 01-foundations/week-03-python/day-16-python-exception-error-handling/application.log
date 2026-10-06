@@ -1,0 +1,18 @@
+2026-10-05 08:12:01,452 [INFO] [main] com.example.app.Application: Starting PaymentProcessorApplication v2.4.1 on prod-web-01
+2026-10-05 08:12:02,118 [INFO] [main] com.example.app.config.DatabaseConfig: Connecting to PostgreSQL database at jdbc:postgresql://db-prod.internal:5432/orders
+2026-10-05 08:12:03,890 [INFO] [main] com.example.app.config.DatabaseConfig: Database connection successfully established. Pool size: 20
+2026-10-05 08:12:04,213 [INFO] [main] com.example.app.Application: Application started successfully in 2.761 seconds (JVM running for 3.42)
+2026-10-05 08:15:33,002 [DEBUG] [http-nio-8080-exec-1] com.example.app.controller.OrderController: Received POST request /api/v1/orders/checkout from IP 192.168.1.45
+2026-10-05 08:15:33,054 [INFO] [http-nio-8080-exec-1] com.example.app.service.OrderService: Creating new order for user_id: 88492
+2026-10-05 08:15:34,710 [WARN] [http-nio-8080-exec-1] com.example.app.gateway.PaymentGateway: Connection latency to payment provider API is high (1850ms)
+2026-10-05 08:15:35,124 [INFO] [http-nio-8080-exec-1] com.example.app.service.OrderService: Order 440211 processed successfully. Amount: $49.99
+2026-10-05 08:16:12,654 [DEBUG] [http-nio-8080-exec-3] com.example.app.controller.OrderController: Received GET request /api/v1/products/inventory/10943
+2026-10-05 08:17:00,005 [ERROR] [cron-scheduler-1] com.example.app.cron.InventorySync: Failed to sync inventory with warehouse API
+java.net.ConnectException: Connection refused (Connection refused)
+    at java.net.PlainSocketImpl.socketConnect(Native Method)
+    at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+    at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+    at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+    at java.net.SocksSocketImpl.connect(Unknown Source)
+    at java.net.Socket.connect(Unknown Source)
+2026-10-05 08:17:05,221 [INFO] [http-nio-8080-exec-4] com.example.app.controller.AuthController: User logout success for username: jsmith_dev

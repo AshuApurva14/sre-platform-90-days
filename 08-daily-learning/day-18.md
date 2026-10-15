@@ -36,8 +36,8 @@
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: commit 4f898343c7e24d3cf6500af21dd00c508a118861 (HEAD -> main, origin/main, origin/HEAD)
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/tree/main/01-foundations/week-03-python/day-18-python-file-handling/labs
 
 ## Problem / Confusion
 

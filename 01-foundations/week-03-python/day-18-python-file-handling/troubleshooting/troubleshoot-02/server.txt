@@ -1,0 +1,14 @@
+{
+  "args": {
+    "name": "Maruti"
+  }, 
+  "headers": {
+    "Accept": "application/json", 
+    "Accept-Encoding": "gzip, deflate, zstd", 
+    "Host": "httpbin.org", 
+    "User-Agent": "python-requests/2.34.2", 
+    "X-Amzn-Trace-Id": "Root=1-6ad02c5e-230a88f80fb2dff303bfb130"
+  }, 
+  "origin": "4.240.39.194", 
+  "url": "https://httpbin.org/get?name=Maruti"
+}

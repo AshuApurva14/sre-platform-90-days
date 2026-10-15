@@ -1,0 +1,7 @@
+
+Server Health Report
+--------------------
+Hostname: web01
+CPU: 85%
+Memory: 70%
+Disk: 80%

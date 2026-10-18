@@ -1,19 +1,29 @@
 # Day 19 — Learning Log
 
 ## Date
-YYYY-MM-DD
+2026-09-25
 
 ## Week
+3
 
 ## Today's One Outcome
 
+- Learn subprocess module 
+- Use subprocess to execute commands
+- Fix bugs and issue when executing the commands using suubprocess
+- Handle errors using execption
+
 ## Planned Minutes
+
+90
 
 ## Actual Focused Minutes
 
+80
+
 ## What I Learned
 
-- 
+- I have practiced and build various production grade  automation scripts.
 
 ## What I Built / Practiced
 

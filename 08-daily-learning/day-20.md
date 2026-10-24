@@ -21,16 +21,17 @@
 
 ## What I Learned
 
-- 
+- Learn and use logging and subprocess module 
+- How to enable logging when running cli commans using subprocess within your program/
 
 ## What I Built / Practiced
 
-- 
+- Build SRE command runner with looging enabled
 
 ## Evidence
 
-- Git commit: 
-- File/demo: 
+- Git commit: 5b4ad9e (HEAD -> main, origin/main, origin/HEAD) feat: add Day 20 materials including class definitions, logging examples, and troubleshooting exercises
+- File/demo: https://github.com/AshuApurva14/sre-platform-90-days/tree/main/01-foundations/week-03-python/day-20-classes-logging/labs
 
 ## Problem / Confusion
 

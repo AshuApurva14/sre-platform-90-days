@@ -1,0 +1,6 @@
+2026-10-22 03:00:43,217 INFO __main__ This is an info message
+2026-10-22 03:00:43,217 WARNING __main__ This is a warning message
+2026-10-22 03:00:43,217 ERROR __main__ This is an error message
+2026-10-22 16:50:38,625 INFO __main__ This is an info message
+2026-10-22 16:50:38,625 WARNING __main__ This is a warning message
+2026-10-22 16:50:38,625 ERROR __main__ This is an error message
